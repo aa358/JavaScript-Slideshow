@@ -1,1 +1,2 @@
-# JavaScript-Slideshow
+JavaScript-Slideshow
+Demonstration: https://youtu.be/KCAsagqRFfI 
